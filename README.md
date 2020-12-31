@@ -6,6 +6,11 @@ http://git.elementdelta.com/tkgcci
 https://github.com/takagotch/github
 
 ```
+GitLab Page
+access token
+
+
+
 ```
 
 ```
